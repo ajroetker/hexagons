@@ -1,0 +1,5 @@
+[package]
+name = "hexagons"
+version = "0.1.0"
+authors = ["Andrew Roetker <andrew.roetker@puppetlabs.com>"]
+[dependencies]
